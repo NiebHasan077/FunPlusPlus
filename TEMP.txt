@@ -1,0 +1,5 @@
+a-zA-Z0-9@$%^&*(){}_+-,.:\|?><
+a-zA-Z0-9@$*(){}_+-,.:\|?><\n\t
+header		"$import"[ ]*+[^\n]+[.h][ ]*
+keyWord		IF|ELSE|FOR|RETURN|INT|FLOOT|CHAR|SWITCH|CASE|BREAK|DEFAULT|PRINT
+%prec IF

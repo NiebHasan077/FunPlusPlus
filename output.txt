@@ -1,0 +1,29 @@
+Included header file
+Included header file
+Single line comment written
+Valid variable declaration
+Value assigned to variable. Value: 3	
+Value assigned to variable. Value: 2	
+Value assigned to variable. Value: 5	
+Value assigned to variable. Value: 7	
+Valid variable declaration
+Single line comment written
+Single line comment written
+
+True expression in IF. Value:  8
+True expression in IF. Value: 5
+Multi-line comment written
+Value assigned to variable. Value: 7	
+ i : 2 and expression : 7
+ i : 3 and expression : 7
+ i : 4 and expression : 7
+ i : 5 and expression : 7
+ i : 6 and expression : 7
+ i : 7 and expression : 7
+Printing value of  Variable:  7
+Value of Log base 10 (100) is 2.000000
+Expression evaluated . Value : 2
+Value of Sqrt(30) is 5.477226
+Expression evaluated . Value : 5
+Value of Cbrt(27) is 3.000000
+Expression evaluated . Value : 3

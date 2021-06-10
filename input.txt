@@ -1,0 +1,66 @@
+$import[stdio.h]
+$import[math.h]
+
+main
+{
+
+%% main function starts from here
+
+	INT a,b,c;
+	a=3;
+	b=2;
+	c=5; d=7;
+	CHAR e;
+	
+%% variables declared
+
+	IF(5=5)
+	{
+		2^3;
+	}
+	
+%% conditional statement with only if
+
+	IF(a>b)
+	{
+		a+b;
+	}
+	ELSE
+	{
+		a-b;
+	}
+
+
+%~ conditional statement with if and else
+we checked if a is greater than b or not
+actions performed acording to condition evaluation
+~%
+
+	SWITCH ( b )
+	{
+	CASE 1 :
+		a + b; BREAK;
+	
+	CASE 2 :
+		b + c; BREAK;
+	
+	CASE 3 : 
+		a + c; BREAK;
+	DEFAULT :
+		c + d; BREAK;
+	}
+
+	FOR (2<8)
+	{
+		a=b+c;
+	}
+	PRINT(a);
+
+	LOG(100);
+	
+
+	SQRT(30);
+
+	CBRT(27);
+}	
+
